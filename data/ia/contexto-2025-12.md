@@ -96,5 +96,5 @@ AENA no ha publicado reparto por países para este mes.
 
 ### Viviendas con fines turísticos · Registro de Turismo de Andalucía (RTA, volcado OpenRTA)
 Altas inscritas en diciembre 2025: 61; mismo mes del año anterior: 95 (−35,79 %).
-Altas acumuladas enero–diciembre 2025: 1.593 frente a 2.109 en 2024 (−24,47 %).
-Parque inscrito a fecha del volcado (2026-11-22): 15.790 VUT y 92.208 plazas. Es la foto actual, no la del mes de referencia; el registro no refleja bajas con fecha.
+Altas acumuladas enero–diciembre 2025: 1.593 frente a 2.108 en 2024 (−24,43 %).
+Parque inscrito a fecha del volcado (2026-11-23): 15.789 VUT y 92.199 plazas. Es la foto actual, no la del mes de referencia; el registro no refleja bajas con fecha.

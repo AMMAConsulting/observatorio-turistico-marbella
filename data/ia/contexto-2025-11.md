@@ -23,8 +23,8 @@ Fuente: Observatorio Turístico de Marbella (punto turístico de Marbella del IN
 ### Rentabilidad hotelera · INE, Índice de Rentabilidad del Sector Hotelero (IRSH)
 | Indicador | Mes | Valor | Mismo mes año anterior | Var. interanual | Mes anterior | Var. mensual | Acumulado del año | Acumulado año anterior | Var. acumulada |
 |---|---|---|---|---|---|---|---|---|---|
-| ADR · tarifa media diaria (€) | noviembre 2025 · provisional | 171,01 | 157,98 | **+8,25 %** | 205,65 | −16,84 % |  |  |  |
-| RevPAR · ingreso por habitación disponible (€) | noviembre 2025 · provisional | 94,69 | 74,4 | **+27,27 %** | 153,08 | −38,14 % |  |  |  |
+| ADR · tarifa media diaria (€) | noviembre 2025 · provisional | 171,01 | 157,98 | **+8,25 %** | 204,38 | −16,33 % |  |  |  |
+| RevPAR · ingreso por habitación disponible (€) | noviembre 2025 · provisional | 94,69 | 74,4 | **+27,27 %** | 151,82 | −37,63 % |  |  |  |
 
 ### Apartamentos turísticos · INE, Encuesta de Ocupación en Apartamentos (EOAP)
 | Indicador | Mes | Valor | Mismo mes año anterior | Var. interanual | Mes anterior | Var. mensual | Acumulado del año | Acumulado año anterior | Var. acumulada |
@@ -103,5 +103,5 @@ Primeros mercados internacionales citados por AENA en su nota de prensa (pasajer
 
 ### Viviendas con fines turísticos · Registro de Turismo de Andalucía (RTA, volcado OpenRTA)
 Altas inscritas en noviembre 2025: 48; mismo mes del año anterior: 143 (−66,43 %).
-Altas acumuladas enero–noviembre 2025: 1.532 frente a 2.014 en 2024 (−23,93 %).
-Parque inscrito a fecha del volcado (2026-11-22): 15.790 VUT y 92.208 plazas. Es la foto actual, no la del mes de referencia; el registro no refleja bajas con fecha.
+Altas acumuladas enero–noviembre 2025: 1.532 frente a 2.013 en 2024 (−23,89 %).
+Parque inscrito a fecha del volcado (2026-11-23): 15.789 VUT y 92.199 plazas. Es la foto actual, no la del mes de referencia; el registro no refleja bajas con fecha.

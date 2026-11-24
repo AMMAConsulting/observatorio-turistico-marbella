@@ -13,8 +13,8 @@
 import Anthropic from "@anthropic-ai/sdk";
 
 const MODEL = "claude-opus-5-5";
-const DATOS = "https://raw.githubusercontent.com/JoseHino/observatorio-turistico-marbella/main/data/ia/";
-const ORIGENES = ["https://josehino.github.io"];
+const DATOS = "https://raw.githubusercontent.com/AMMAConsulting/observatorio-turistico-marbella/main/data/ia/";
+const ORIGENES = ["https://ammaconsulting.github.io", "https://josehino.github.io"];
 const LIMITE_IP_DIA = 4;
 const LIMITE_GLOBAL_DIA = 15;
 const MAX_EXTRA = 800;

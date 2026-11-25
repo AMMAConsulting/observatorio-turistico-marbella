@@ -3,6 +3,12 @@ name: Actualizar snapshot RTA (VUT Marbella)
 on:
   schedule:
     - cron: "17 5 * * *" # diario 05:17 UTC (la Junta regenera el volcado hacia las 04:15 UTC)
+    # Pasadas de respaldo: GitHub retrasa la de las 05:17 hasta 10 h y a veces el
+    # servidor de la Junta corta todas las conexiones durante un rato (20-11 y
+    # 25-11-2026: «Connection reset by peer» en los 6 intentos). Sin respaldo el
+    # censo de VUT se quedaba un día entero sin refrescar. Solo hay commit si cambia.
+    - cron: "47 12 * * *"
+    - cron: "47 19 * * *"
   workflow_dispatch:
 
 permissions:

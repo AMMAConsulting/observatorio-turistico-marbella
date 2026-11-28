@@ -104,6 +104,6 @@ Primeros mercados internacionales citados por AENA en su nota de prensa (pasajer
 | Francia | 87.677 | n/d | n/d |
 
 ### Viviendas con fines turísticos · Registro de Turismo de Andalucía (RTA, volcado OpenRTA)
-Altas inscritas en marzo 2026: 90; mismo mes del año anterior: 454 (−80,18 %).
-Altas acumuladas enero–marzo 2026: 221 frente a 758 en 2025 (−70,84 %).
-Parque inscrito a fecha del volcado (2026-11-27): 15.812 VUT y 92.323 plazas. Es la foto actual, no la del mes de referencia; el registro no refleja bajas con fecha.
+Altas inscritas en marzo 2026: 90; mismo mes del año anterior: 453 (−80,13 %).
+Altas acumuladas enero–marzo 2026: 221 frente a 757 en 2025 (−70,81 %).
+Parque inscrito a fecha del volcado (2026-11-28): 15.795 VUT y 92.225 plazas. Es la foto actual, no la del mes de referencia; el registro no refleja bajas con fecha.
